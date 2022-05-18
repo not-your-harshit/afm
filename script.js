@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["SMART GREEN HOUSE MONITRING SYSTEM  "],
+        strings: ["SMART GREEN HOUSE MONITORING SYSTEM  "],
         typeSpeed: 110,
         backSpeed: 100,
         loop: true
