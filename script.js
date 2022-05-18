@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Let's Change The World Together For Farmer "],
+        strings: ["Let the Farmer be Smart, Let the World be Smart"],
         typeSpeed: 110,
         backSpeed: 100,
         loop: true
